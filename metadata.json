@@ -1,0 +1,6 @@
+{
+  "name": "Taxi Route Optimization",
+  "description": "A minimalist Reinforcement Learning-based taxi route optimization dashboard for Kuala Lumpur, designed by Eleven-Nine Group for SECJ3563 Computational Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
